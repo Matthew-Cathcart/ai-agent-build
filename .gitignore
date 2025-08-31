@@ -1,0 +1,5 @@
+#Virtual environment
+.venv
+
+#Private key location for Gemini
+.env
